@@ -17,3 +17,5 @@ bedScan plots scan data<br />
 plotTemp plots temperature data<br />
 
 All supporting documents and photos have been include<br />
+Credit to Daniel Aguirre for providing the base for the GCode_to_Robtarget converter<br />
+https://github.com/DAguirreAg/GCode-to-ABB<br />
