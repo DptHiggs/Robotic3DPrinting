@@ -11,4 +11,9 @@ PrintHead is the file used to control the print head during normal operation
 BLTouch is used to collect bed levelling coordinates
 runStepper10 runs the feed stepper for 10s, used for calibration
 
+MATLAB:
+BedLevel plots bed level data
+bedScan plots scan data
+plotTemp plots temperature data
+
 All supporting documents and photos have been include
