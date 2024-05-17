@@ -1,19 +1,19 @@
-Repository contains all files used as part of the Robotic 3D Printing Project
-Project involves retrofitting an ABB IRB 120 robotic arm for basic 3D printing
+Repository contains all files used as part of the Robotic 3D Printing Project<br />
+Project involves retrofitting an ABB IRB 120 robotic arm for basic 3D printing<br />
 
-Python:
-Script GCode_to_robtargets is used to convert GCode into movement commands for robot arm
-Script GCode_to_robtargets_BLTouch does the same, but accounts for bed levelling data
-Both were run in Spyder IDE within Anaconda
+Python:<br />
+Script GCode_to_robtargets is used to convert GCode into movement commands for robot arm<br />
+Script GCode_to_robtargets_BLTouch does the same, but accounts for bed levelling data<br />
+Both were run in Spyder IDE within Anaconda<br />
 
-Arduino:
-PrintHead is the file used to control the print head during normal operation
-BLTouch is used to collect bed levelling coordinates
-runStepper10 runs the feed stepper for 10s, used for calibration
+Arduino:<br />
+PrintHead is the file used to control the print head during normal operation<br />
+BLTouch is used to collect bed levelling coordinates<br />
+runStepper10 runs the feed stepper for 10s, used for calibration<br />
 
-MATLAB:
-BedLevel plots bed level data
-bedScan plots scan data
-plotTemp plots temperature data
+MATLAB:<br />
+BedLevel plots bed level data<br />
+bedScan plots scan data<br />
+plotTemp plots temperature data<br />
 
-All supporting documents and photos have been include
+All supporting documents and photos have been include<br />
